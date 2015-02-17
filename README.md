@@ -1,2 +1,2 @@
 # iOS-Development
-Apple Mobile App Development
+Apple Mobile Application Development
